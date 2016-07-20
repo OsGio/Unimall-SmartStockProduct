@@ -1,0 +1,10 @@
+{
+  "name": "valis/unimall",
+  "type": "library",
+  "require": {
+    "rakuten-ws/rws-php-sdk": "1.*"
+  },
+  "autoload": {
+    "psr-4": {"Rakuten\\": "Rakuten/"}
+  }
+}
